@@ -1,0 +1,4 @@
+[master]
+192.168.1.94    ansible_user=root
+[client]
+192.168.1.98    ansible_user=ansible
